@@ -1,0 +1,46 @@
+body {
+    scroll-behavior: smooth;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.hero {
+    height: 100vh;
+    background: linear-gradient(to right, #a4a8b3, #757f9d);
+    padding-top: 80px;
+}
+
+.custom-navbar {
+    background: linear-gradient(to right, #98a7d2, #dfe6fc);
+}
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid white;
+}
+
+section {
+    padding-top: 80px;
+}
+
+.card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+
+.progress-bar {
+    background-color: #4e73df;
+}
+
+.custom-footer {
+    background: linear-gradient(to right, #98a7d2, #dfe6fc);
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 15px 0;
+}
+
+.custom-footer p {
+    margin: 0;
+}
